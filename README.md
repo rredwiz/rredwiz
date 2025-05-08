@@ -1,4 +1,6 @@
-Hi! I'm a hobbyist programmer and a 2nd-year CS student studying at [Dalhousie University](https://www.dal.ca/)⭐  
-  
-I'm self-taught in Python and TypeScript, and working on [side projects](https://github.com/reddwiz?tab=repositories) right now.  
-If you'd like to work on something with me, please let me know!
+Hi! I'm a hobbyist programmer and a 2nd-year CS student.
+🎓 * Studying at [Dalhousie University](https://www.dal.ca/).
+💻 * Self-taught in Python and TypeScript, working on [side projects](https://github.com/reddwiz?tab=repositories). 
+
+At the moment, my main goal is learning and being a little better every day.
+🎇 * If you wish to collaborate on a project, contact me!
