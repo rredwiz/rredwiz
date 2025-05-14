@@ -5,4 +5,4 @@ Hi! I'm a hobbyist programmer and a 1st-year university student.
 My main goal is learning and consistently putting in the effort to be better every day.  
 * 🎇 If you wish to collaborate on a project, contact me!
 
-Languages: Java, Python, Typescript/Javascript, HTML, CSS, C
+Languages: Java, Python, TypeScript/JavaScript, HTML, CSS, C
