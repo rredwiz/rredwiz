@@ -1,4 +1,4 @@
-Hi! I'm a hobbyist programmer and a 1st-year university student.  
+Hi! I'm a hobbyist programmer and rising sophomore university student.  
 * 🎓 Studying CS at [Dalhousie University](https://www.dal.ca/).
 * 📈 Currently working on [side projects](https://github.com/rredwiz?tab=repositories) for internships.   
   
