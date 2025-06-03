@@ -1,4 +1,6 @@
-Hi! I'm a hobbyist programmer and rising sophomore university student.  
+### Hey, I'm Andrew!
+
+I'm a hobbyist programmer and a rising sophomore university student.  
 * 🎓 Studying CS at [Dalhousie University](https://www.dal.ca/).
 * 📈 Currently working on [side projects](https://github.com/rredwiz?tab=repositories) for internships.   
   
