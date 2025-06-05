@@ -9,7 +9,7 @@
 * 📈 Currently working on [side projects](https://github.com/rredwiz?tab=repositories) for internships.   
 </details>
 <details>
-<summary>>What are my goals?</summary>
+<summary>What are my goals?</summary>
 * My main goal is learning and consistently putting in the effort to be better every day.  
 * 🎇 If you wish to collaborate on a project, contact me!
 </details>
