@@ -1,8 +1,8 @@
 ### Hey, I'm Andrew!
 <details>
-<summary>Who am I?</summary>  
+<summary>💻 Who am I?</summary>  
   
-<ul><li>I'm a hobbyist programmer and a rising sophomore university student.</li></ul>
+<ul><li>⚡ I'm a hobbyist programmer and a rising sophomore university student.</li></ul>
 </details>
 <details>
 <summary>What do I do?</summary>  
@@ -14,10 +14,10 @@
 </ul>
 </details>
 <details>
-<summary>What are my goals?</summary>  
+<summary>🎉 What are my goals?</summary>  
   
 <ul>
-<li>My main goal is learning and consistently putting in the effort to be better every day.</li>
+<li>🚀 My main goal is learning and consistently putting in the effort to be better every day.</li>
 <li>🎇 If you wish to collaborate on a project, contact me!</li>   
 </ul>
 </details>
